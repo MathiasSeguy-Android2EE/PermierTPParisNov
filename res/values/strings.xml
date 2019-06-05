@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PermierTPParisNov</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title">Titre du TP1</string>
+    <string name="edt_hint">Ecris un mot</string>
+    <string name="btn_Add">Ajouter</string>
+    <string name="alertdialog_message">Voulez-vous copier l\'item dans l\'editText</string>
+    <string name="alertdialog_yes">Oui</string>
+    <string name="alertdialog_no">Non</string>
+    <string name="toast_success">L\'utilisateur veut bien copier.</string>
+    <string name="toast_refused">L\'utilisateur n\'est pas un copieur</string>
+
+</resources>
